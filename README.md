@@ -16,6 +16,5 @@ If you spot any mistakes in the code or the theory, feel free to raise an issue.
 # Contact
 If you would like to directly contact me with queries related to this repository:
 
-Email: <hammy.shaikh@mail.utoronto.ca>
+Email: <ubaidullah.ai.engineer@gmail.com>
 
-Twitter: https://twitter.com/HammadShaikhha
